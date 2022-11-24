@@ -1,5 +1,5 @@
 
-<img src="kissland_cat.gif">
+<img src="img\kissland_cat.gif">
 
 <!---
 ddxbugs/ddxbugs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
